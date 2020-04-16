@@ -1,3 +1,1 @@
-# Useful PowerShell Scripts
-
-Some PowerShell scripts
+# Some Useful PowerShell Scripts
